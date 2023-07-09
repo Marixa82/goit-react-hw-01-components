@@ -1,5 +1,5 @@
 import Profile from "./Profile";
-
+import user from "../components"
 export const App = () => {
   return (
     <div
