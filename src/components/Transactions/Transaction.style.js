@@ -16,7 +16,7 @@ background-color: #a8dadc;
   font-weight: bold;
   padding: 8px;`
 const Tr = styled.tr`
-  :nth-child(even) {
+  :nth-of-type {
   background-color: #f2f2f2;
 }
 :hover {

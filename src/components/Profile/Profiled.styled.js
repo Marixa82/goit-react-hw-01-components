@@ -85,8 +85,9 @@ position: relative;
     background-color: white;
   }
 `
+const Quantity = styled.span``;
 const ItemLabel = styled.span`
 padding-bottom: 10px;
 `
 
-export { Description, Avatar, Username, Tag, Location, ProfileUser, Stats, Item, ItemLabel };
+export { Description, Avatar, Username, Tag, Location, ProfileUser, Stats, Item, ItemLabel, Quantity };
